@@ -10,4 +10,4 @@ python main.py
 Цвета форматирования можно изменять в файле `config.json`.
 
 ## Демо 
-<video controls src="demo.mp4" width="640" height="360"></video>
+![Демо](demo/demo.gif)
